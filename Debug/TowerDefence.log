@@ -1,0 +1,32 @@
+﻿2015/07/22 12:24:23 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "M:\Takehiro\自作ゲーム\TowerDefence\TowerDefence\TowerDefence.vcxproj" (build ターゲット)。
+     1>InitializeBuildStatus:
+         "AlwaysCreate" が指定されたため "Debug\TowerDefence.unsuccessfulbuild" を作成しています。
+       ClCompile:
+         G:\Visual C++ 2010 Express\VC\bin\CL.exe /c /IG:\DxLib /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp sound.h
+         main.cpp
+         コードを生成中...
+         スキップ中... (関連する変更は検出されませんでした)
+         sound.h
+       ManifestResourceCompile:
+         すべての出力が最新のものです。
+       Link:
+         G:\Visual C++ 2010 Express\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"M:\Takehiro\自作ゲーム\TowerDefence\Debug\TowerDefence.exe" /INCREMENTAL /NOLOGO /LIBPATH:G:\DxLib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\TowerDefence.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"M:\Takehiro\自作ゲーム\TowerDefence\Debug\TowerDefence.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"M:\Takehiro\自作ゲーム\TowerDefence\Debug\TowerDefence.lib" /MACHINE:X86 Debug\TowerDefence.exe.embed.manifest.res
+         Debug\curcurate.obj
+         Debug\key.obj
+         Debug\main.obj
+         Debug\sound.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\TowerDefence.exe.embed.manifest" /manifest Debug\TowerDefence.exe.intermediate.manifest
+         すべての出力が最新のものです。
+       LinkEmbedManifest:
+         すべての出力が最新のものです。
+         TowerDefence.vcxproj -> M:\Takehiro\自作ゲーム\TowerDefence\Debug\TowerDefence.exe
+       FinalizeBuildStatus:
+         ファイル "Debug\TowerDefence.unsuccessfulbuild" を削除しています。
+         "Debug\TowerDefence.lastbuildstate" のタッチ タスクを実行しています。
+     1>プロジェクト "M:\Takehiro\自作ゲーム\TowerDefence\TowerDefence\TowerDefence.vcxproj" (build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:02.19
